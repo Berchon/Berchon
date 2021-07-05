@@ -237,7 +237,7 @@
 
 ## Statistics
 <p align="left">
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <a href="https://github.com/Berchon">
         <img src="https://github-profile-trophy.vercel.app/?username=Berchon" alt="Berchon" />
     </a>
 </p>
