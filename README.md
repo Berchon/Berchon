@@ -1,10 +1,6 @@
-<details open>
-  <summary>
+## Who I am
 
-  # Who I am
-  </summary>
-
-## Hey 🖖, I'm Luciano Berchon
+### Hi 🖖, I'm Luciano Berchon
 </br>
 
 <table width="100%">
@@ -26,12 +22,12 @@
     </tr>
 </table>
 
-</details>
+***
 
 <details>
   <summary>
   
-  # My Projects (Readme in development)
+  ## My Projects (Click me to expand)(Readme in development)
   </summary>
 
 <!-- FUNDAMENTOS -->
@@ -132,40 +128,28 @@
 
 </details>
 
-<details>
-  <summary>
-  
-  # Languages and Tools (Readme in development)
-  </summary>
+***
+## Languages and Tools (Readme in development)
 
 Coming soon 😌 😅
-</details>
 
-<details>
-  <summary>
-  
-  # Connect with me
-  </summary>
+***
+## Connect with me
 
 <a target="_blank" href="https://www.linkedin.com/in/luciano-berchon/">
-  <img align="middle" alt="LinkedIn" height="48px" src="./images/icon-linkedin.svg" />
+  <img align="middle" alt="LinkedIn" height="36px" src="./images/icon-linkedin.svg" />
 </a>
 
 <a target="_blank" href="mailto:berchon@gmail.com">
-  <img align="middle" alt="E-mail" height="42px" src="./images/icon-gmail.svg" />
+  <img align="middle" alt="E-mail" height="34px" src="./images/icon-gmail.svg" />
 </a>
 
 <a target="_blank" href="https://www.instagram.com/luciano.berchon/">
-  <img align="middle" alt="Instagram" height="54px" src="./images/icon-instagram.svg" />
+  <img align="middle" alt="Instagram" height="44px" src="./images/icon-instagram.svg" />
 </a>
 
-</details>
+***
 
-<details>
-  <summary>
-  
-  # Statistics (Readme in development)
-  </summary>
+## Statistics (Readme in development)
 
 Coming soon 😌 😅
-</details>
